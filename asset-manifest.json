@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cooking_with_react/static/css/main.a617e044.chunk.css",
+    "main.js": "/cooking_with_react/static/js/main.6e1a1f0a.chunk.js",
+    "main.js.map": "/cooking_with_react/static/js/main.6e1a1f0a.chunk.js.map",
+    "runtime-main.js": "/cooking_with_react/static/js/runtime-main.9f66399d.js",
+    "runtime-main.js.map": "/cooking_with_react/static/js/runtime-main.9f66399d.js.map",
+    "static/js/2.66461e09.chunk.js": "/cooking_with_react/static/js/2.66461e09.chunk.js",
+    "static/js/2.66461e09.chunk.js.map": "/cooking_with_react/static/js/2.66461e09.chunk.js.map",
+    "static/js/3.d4689196.chunk.js": "/cooking_with_react/static/js/3.d4689196.chunk.js",
+    "static/js/3.d4689196.chunk.js.map": "/cooking_with_react/static/js/3.d4689196.chunk.js.map",
+    "index.html": "/cooking_with_react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cooking_with_react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.66461e09.chunk.js.LICENSE.txt": "/cooking_with_react/static/js/2.66461e09.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cooking_with_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f66399d.js",
+    "static/js/2.66461e09.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6e1a1f0a.chunk.js"
+  ]
+}
